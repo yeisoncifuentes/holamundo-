@@ -18,8 +18,12 @@ public class Main{
    			System.out.println(var3);
 			var3--;
 		}
-				
-
+		
+		int var4=0;		
+		while(var4<100){
+   			System.out.println(var3);
+			var3--;
+		}
 	}	
 
 }
